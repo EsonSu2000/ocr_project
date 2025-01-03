@@ -1,4 +1,5 @@
 # 项目名称
+# rust web 文本识别
 
 ## 项目简介
 这是一个基于[ocrs](https://github.com/robertknight/ocrs)的OCR文字识别应用。ocrs是一个使用Rust开发的现代化OCR引擎,可以从图片中提取文字。
