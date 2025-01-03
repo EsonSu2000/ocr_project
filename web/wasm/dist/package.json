@@ -1,0 +1,25 @@
+{
+  "name": "ocrs",
+  "type": "module",
+  "collaborators": [
+    "Robert Knight"
+  ],
+  "description": "OCR engine",
+  "version": "0.9.0",
+  "license": "MIT OR Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertknight/ocrs"
+  },
+  "files": [
+    "ocrs_bg.wasm",
+    "ocrs.js",
+    "ocrs.d.ts"
+  ],
+  "main": "ocrs.js",
+  "homepage": "https://github.com/robertknight/ocrs",
+  "types": "ocrs.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
