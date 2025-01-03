@@ -33,7 +33,8 @@ rust打包
 ```bash
 wasm-pack build  --out-dir web/wasm/dist --target web --reference-types --weak-refs
 ```
-
+##项目预览地址
+[demo](https://esonsu2000.github.io/ocr_project/)
 
 ## 已知问题
 - 非英文字符的识别可能导致程序异常或崩溃
