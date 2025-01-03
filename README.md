@@ -22,7 +22,6 @@
 - ocrs OCR引擎
 - WebAssembly
 - http-server
-```
 
 ## 使用方法
 ###基本用法
